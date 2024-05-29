@@ -29,4 +29,4 @@ This project was made by [Chase Kellogg](https://chasekellogg.com/).
 ## Acknowledgments
 
 - [YouTube API](https://developers.google.com/youtube/v3)
-- [Spotify API](https://pytube.io/en/latest/)
+- [Pytube](https://pytube.io/en/latest/)
